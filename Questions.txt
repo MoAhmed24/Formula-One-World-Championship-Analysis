@@ -1,0 +1,8 @@
+Drivers
+1.What is the total number of drivers ?
+2.What is the number of drivers per country ?
+----------------------------------------------
+Races
+3.What is the total number of champions form 1950 to 2022 ?
+4.What is the total number of rounds per year ?
+5.What is the 10 popular countries host the champion ?
